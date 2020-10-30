@@ -26,6 +26,8 @@ Open your terminal, go to project directory, and write:
 
 `node jokes.js`
 
+If u don't know how use github, check the project on [repl.it](https://repl.it/join/kqczlevz-ogitoziomal)(Yes it's for you).
+
 
 ---
 ### Meaning of existence
