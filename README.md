@@ -32,3 +32,4 @@ Open your terminal, go to project directory, and write:
 I'm just joking, here you will not know the answer to that
 
 ---
+![](src/sample_joke.png)

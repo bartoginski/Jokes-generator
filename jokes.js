@@ -1,4 +1,4 @@
-const json_file = require('./jokes.json')
+const json_file = require('./data/jokes.json')
 
 const jokes = json_file['jokes']
 
