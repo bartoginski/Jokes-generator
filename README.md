@@ -8,7 +8,7 @@
 
 ---
 ### Introduction 
-If you are a programmmer, or just nerd, this program should make you smile. This project is created for fun, 
+If you are a programmmer, or just nerd, this program should make you smile. The project is created for fun, 
 don't try to take it seriously. :P
 
 ---
