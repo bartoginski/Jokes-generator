@@ -15,14 +15,14 @@ don't try to take it seriously. :P
 
 ### Technology
 
-The only thing you need besides the computer is the node.js. 
+The only thing you need besides the computer, is the node.js. 
 
 You can download and install it from the site's [official website](https://nodejs.org/en/)
 
 ---
 ### Usage
 
-Open your terminal, go to project directory, and write:
+Open your terminal, go to project directory, and type:
 
 `node jokes.js`
 
