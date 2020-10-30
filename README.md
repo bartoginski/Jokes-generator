@@ -29,7 +29,7 @@ Open your terminal, go to project directory, and write:
 
 ---
 ### Meaning of existence
-I'm just joking, here you will not know the answer to that
+I'm just joking, here you will not know the answer
 
 ---
 ![](src/sample_joke.png)
