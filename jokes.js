@@ -9,3 +9,12 @@ const getRandomJoke = (jokesArary) => {
     return randomJoke
 }
 
+let randomJoke = getRandomJoke(jokes)
+
+console.log("Hello user!")
+console.log("Todays joke is...\n")
+
+console.log(randomJoke)
+
+console.log()
+console.log("See ya next time!")
